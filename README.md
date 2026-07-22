@@ -1,22 +1,14 @@
-# pl
-A relational test and work definition tool
-
 # plis.work
 
-# Work is defined in english.
+Work is defined in english.
+Your dispatch defines the work based on known configurations from your community.
 
-# Your dispatch defines the work based on
-# known configurations from the community.
+Work is proved through perception.
+Contractors serve parcels,
+Try plis.work!
 
-# Work is proved through perception.
-# Contractors serve parcels,
-# Try plis.work/ !
+Verbs define work and parsels, and products are verified to return to their origin.
 
-# Verbs define work and parsels + products are verified to return
-# to their origin
-
-
-<p> This is my site.
 
 
   State your work.
@@ -56,13 +48,8 @@ A relational test and work definition tool
   Manual dispatch.
 
 
-  . Consult .
+  Consult / Code ->
 
+plis.work
 
-  Code ->
-
-
-  plis.work
-  github.com/work-gang/
-
-</p>
+github.com/work-gang/pl
