@@ -53,3 +53,6 @@ Verbs define work and parsels, and products are verified to return to their orig
 plis.work
 
 github.com/work-gang/pl
+
+
+Support our work at:  Ko-fi.com/qua429445
